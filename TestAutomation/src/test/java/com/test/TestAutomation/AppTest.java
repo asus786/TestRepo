@@ -11,6 +11,5 @@ public class AppTest
 	public void launchPage() {
 		System.out.println(".......................Test started...");
 		//
-		
 	}
 }
